@@ -1,1 +1,4 @@
-れどめ
+build:
+```
+py -m PyInstaller sample.py
+```
